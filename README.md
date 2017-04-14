@@ -1,11 +1,12 @@
-# Berry blobber
-
-- Approx. completion time: **1 hour**
-- Deliverables: **1 HTML file, 1 JS file**
-
+---
+summary: 'Explore using objects and arrays by writing a function to output some berry information.'
+time: '1 hour'
+deliverables: '1 HTML file, 1 JS file'
 ---
 
-**Explore using objects and arrays by writing a function to output some berry information.**
+# Berry blobber
+
+## Overview
 
 - *Fork this repository.*
 - The array of objects is already created for you.
@@ -19,10 +20,10 @@
 
 Visually match the images in the “screenshots” folder.
 
-- [Final screenshots in the “screenshots” folder.](screenshots)
+- Final screenshots in the “screenshots” folder.
 
 ---
 
 ## Hand in
 
-Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit online.

@@ -1,24 +1,33 @@
-repo: "berry-blobber"
-canvasCourse: "467503"
-canvasAssignment: "4202525"
+repo: 'berry-blobber'
 
 naming: true
-commits: 1
+restrictFileTypes: true
+liveWebsite: true
+
+git:
+  numCommits: 1
+  allCommitted: true
+  allSynced: true
 
 html:
-  - path: "index.html"
+  - path: 'index.html'
     locked: true
 
 js:
-  - path: "js/main.js"
+  - path: 'js/main.js'
     valid: true
     bestPractices: true
     search:
-      - 'function'
+      - 'var writeBerries \= function \('
       - 'forEach'
-      - 'document.write'
+      - 'document.write\('
       - '\+'
+      - '<h1>'
+      - '<h2>'
+      - '<dl>'
+      - '<dt>'
+      - '<dd>'
 
 screenshots:
-  - path: "index.html"
+  - path: 'index.html'
     sizes: [320]
